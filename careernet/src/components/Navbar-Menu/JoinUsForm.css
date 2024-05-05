@@ -1,0 +1,125 @@
+  .success-title,.success-text{
+    color: #06325e
+  }
+  .join-headlight{
+    text-align: center;
+    align-items: center;
+    margin-top: -100px;
+  }
+  
+  .form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+  }
+  .Form-Box{
+    width: 700px;
+    margin-top: 200px;
+  }
+  .error{
+    font-size: 14px;
+    color: red;
+    margin-bottom: 15px;
+  }
+  
+  .register-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 10px;
+  }
+  
+  .success-message {
+    text-align: center;
+  }
+  
+  .form-field {
+    color: #626262;
+    background-color: rgba(255, 255, 255, 1);
+    margin: 10px 0 10px 0;
+    padding: 10px;
+    margin-right: 10px;
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid  #00b5d4;
+   
+  }
+  #form-field {
+    color: #626262;
+    background-color: rgba(255, 255, 255, 1);
+    margin: 10px 0 10px 0;
+    padding: 9px;
+    margin-right: 10px;
+    width: 322px;
+    border-radius: 10px;
+    border: 1px solid  #00b5d4;
+   
+  }
+  
+  input {
+    background: #7c7c7c;
+  }
+  
+  .error {
+    position: inherit !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    padding: 0 10px !important;
+    background-color: #ed3b2e;
+    color: white;
+    text-indent: 0 !important;
+    padding: 0;
+    border: none !important;
+  }
+  
+  button {
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    cursor: default;
+  }
+  .submitBtl{
+    background-color: #004066;
+    font-size: 15px;
+    margin-left: 225px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    line-height: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    padding: 15px 20px;
+    border-width: 0;
+    border-radius: 22px;
+  }
+  .file-add-container {
+    display: flex;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .file-add-container h4 {
+    margin-bottom: 10px;
+    margin-top: -10px;
+  }
+  
+  .add-File {
+    margin-top: -20px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: transparent;
+    cursor: pointer;
+    margin-bottom: -40px;
+  }
+  .Captcha-joinus{
+    align-items: center;
+    justify-content: center;
+    margin-left: 190px;
+  }

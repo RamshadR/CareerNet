@@ -1,0 +1,28 @@
+.slCover3-Container{
+    background-color: #f1f1f3;
+    margin-top: -40px;
+}
+.sl3-Cover-Title{
+    line-height: 46px;
+    margin-left: 160px;
+    font-size: 40px;
+    color: #06325e;
+    font-weight: 600;
+    padding-top: 50px;
+}
+.ReadText{
+    color: #51b4be;
+}
+.sl3-Box-Wrap{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-left: 120px;
+    margin-right: 140px;
+    padding-bottom: 50px;
+    text-align: start;
+}
+.sl3-img{
+    width: 279px;
+    height: 165px;
+}

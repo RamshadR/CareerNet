@@ -1,0 +1,71 @@
+.corporatesimg {
+    width: 360px;
+    height: 402px;
+    margin-left: 140px;
+    margin-top: 50px;
+  }
+  
+  .corporate-title {
+    color: #06325e;
+    font-size: 33px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0px;
+  }
+  
+  .corporates-Container {
+    display: flex;
+  }
+  
+  .corporate-form {
+    margin-left: 40px;
+    margin-top: 40px;
+  }
+  
+  .form-fieldc,
+  .form-field-msg { 
+    color: #626262;
+    background-color: rgba(255, 255, 255, 1);
+    margin: 10px 0;
+    padding: 10px;
+    margin-right: 10px;
+    width: 250px;
+    border-radius: 10px;
+    border: 1px solid #00b5d4;
+  }
+  
+  .form-field-msg { 
+    height: 80px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px; 
+    margin-top: 5px; 
+  }
+  .workwith-Container{
+     display: flex;
+  }
+  .candidate-Container{
+    display: flex;
+  }
+  .candidate-para{
+    margin-left: 20px;
+    margin-right: 200px;
+    margin-top: 120px;
+  }
+  .candidate-Btn{
+    font-size: 18px;
+    background: #004066;
+    padding: 10px;
+    color: #fff;
+    border-radius: 5px;
+    position: relative;
+    top: 10px;
+    margin-top: 36px;
+  }
+  .workwith-Container{
+    margin-left: 160px;
+    margin-right: 550px;
+    margin-top: 100px;
+  }

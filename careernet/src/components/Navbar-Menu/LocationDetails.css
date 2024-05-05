@@ -1,0 +1,63 @@
+.location-container{
+    background-color:#f1f1f3;
+}
+.map-title{
+    margin-left: 150px;
+    padding-top: 50px;
+    color: #004066;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 55px; 
+}
+.top-LocationBtns{
+    margin-left: 150px;
+}
+.location-btns{
+    margin-left: 150px;
+    align-items: center;
+    gap: 30px;
+}
+.top-LocationBtn{
+  border: none;
+  color: #004066;
+  font-size: 23px;
+  font-weight: 550;
+  background: none;
+  cursor: pointer;
+  text-decoration:none; 
+}
+.top-LocationBtn2{
+  border: none;
+  color: #444;
+  font-size: 20px;
+  font-weight: 550;
+  background: none;
+  cursor: pointer;
+  text-decoration:none; 
+}
+.location-btns{
+    margin-top: 50px;
+    display: flex;
+    gap: 20px;
+}
+.map-Container{
+    display: flex;
+    margin-left: 140px;
+}
+.Location-Details{
+    margin-right: 70px;
+    margin-left: 30px;
+}
+.Location-Name{
+  border: none;
+  color: #004066;
+  font-size: 23px;
+  font-weight: 600;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+.map-bottom-Text{
+  color: #00b4d5;
+  text-decoration: none;  
+  font-weight: 600;
+}

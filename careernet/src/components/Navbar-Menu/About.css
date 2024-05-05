@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+
+.coverpic-About{
+    width:100%;
+    height: 603px;
+    margin-top: 92px;
+
+}
+.photoTexta{
+    position: absolute;
+    top: 55%; 
+    left: 25%;
+    font-size: 75px; 
+    font-weight: bolder;
+    text-align:left; 
+    z-index:0;
+    font-family: "Kaushan Script";
+    text-decoration: none;
+    line-height: 82px;
+    letter-spacing: -1px;
+    font-weight: 400;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.about-Cover2{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 70px;
+}
+.coverpic-2{
+    width: 480px;
+    height: 450px;
+}
+.cover2-paraghrap{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.Container3{
+    display: flex;
+}
+.cover3-title{
+    margin-left: 150px;
+    color: #004066;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 55px;
+}
+.h4{
+    color: #004066;
+    font-weight:bold;
+    font-size: 25px;
+    text-align:left; 
+    margin-left: 50px;
+    margin-top: -10px;
+    margin-bottom: -5px;
+}
+.point{
+    margin-top: 5px;
+    margin-bottom: 3px;
+    text-align: start;
+}
+.icon-text {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: start;
+    margin-left: 30px;
+    display: flex;
+    align-items: center; 
+    gap: 10px;
+}
+.Container3 {
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+}
+.cover4-tittle{
+    margin-left: 150px;
+    color: #004066;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 55px;
+
+}
+.Container4{
+    width: 100%;
+    height: 850px;
+}
+.candidate-box{
+   display: flex;
+   flex-wrap: wrap;
+   flex: 1;
+   align-items: center;
+   justify-content: center;
+   
+}
+.candidate-para{
+    margin-top: 60px;
+    margin-left: -230px;
+    font-size: 14px;
+    text-align: start;
+    padding: 10px;
+}
+.candidate-para0{
+    margin-top: 60px;
+    margin-left: -240px;
+    font-size: 14px;
+    text-align: start;
+    padding: 10px;
+}
+.candidate-para1{
+    margin-top: 60px;
+    margin-left: -280px;
+    font-size: 14px;
+    text-align: start;
+    padding: 10px;
+}
+.candidate-para2{
+    margin-top: 60px;
+    margin-left: -330px;
+    font-size: 14px;
+    text-align: start;
+    padding: 10px;
+}
+.candidate-para3{
+    margin-top: 60px;
+    margin-left: -214px;
+    font-size: 14px;
+    text-align: start;
+    padding: 10px;
+}.candidate-para4{
+    margin-top: 60px;
+    margin-left: -330px;
+    font-size: 14px;
+    text-align: start;
+    padding: 10px;
+}
+.candidate-para5{
+    margin-top: 60px;
+    margin-left: -330px;
+    font-size: 14px;
+    text-align: start;
+    padding: 10px;
+}
+.candidate-para6{
+    margin-top: 60px;
+    margin-left: -250px;
+    font-size: 14px;
+    text-align: start;
+    padding: 10px;
+}
+.candidate-para7{
+    margin-top: 60px;
+    margin-left: -330px;
+    font-size: 14px;
+    text-align: start;
+    padding: 10px;
+}
+.candidate-box1{
+    display: flex;
+
+}
+.scale-with-grid{
+    width: 125px;
+    height: 130px;
+    align-items: start;
+    margin-left: 30px;
+}
+.box-title{
+    text-align: start;
+    font-style: italic;
+    font-weight:bold;
+    font-size: 25px;
+    text-align:left; 
+    margin-left: 50px;
+    margin-top: -10px;
+    margin-bottom: -5px;
+    color: #00b4d5;
+}
+
+.cover5{
+    background-color: #00b4d5;
+}
+.cover5-text{
+    margin-left: 150px;
+   padding-top: 50px;
+    color: #004066;
+    font-weight: 500;
+    font-size: 48px;
+}
+.cover5-pic{
+    width: 1000px;
+    margin-left: 170px;
+    margin-top: 30px;
+    margin-bottom: 70px;
+}

@@ -1,0 +1,24 @@
+.reform-heading{
+    color: #004066;
+    font-weight: 600;
+    font-size: 29px;
+    text-align: center;
+    padding-top: 0px;
+}
+.mess-form-field{
+    color: #626262;
+    background-color: rgba(255, 255, 255, 1);
+    margin: 10px 0 10px 0;
+    padding: 10px;
+    margin-right: 10px;
+    width: 632px;
+    height: 170px;
+    border-radius: 10px;
+    border: 1px solid  #00b5d4;  
+}
+.re-Form-Box{
+    margin-top: -180px;
+}
+.form-container{
+    background-color: #f1f1f3;
+}

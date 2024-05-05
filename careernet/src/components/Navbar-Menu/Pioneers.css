@@ -1,0 +1,33 @@
+.pioneer-title{
+    margin-left: 150px;
+    color: #004066;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 55px;
+}
+.PioneerBtnn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+.pioneerBtn{
+    background-color:rgb(255, 255, 255);
+    color: #54bffd;
+    border: 1px solid #54bffd ;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 3px;
+}
+.pioneer-Container{
+    transition: opacity 1s ease-in-out; 
+    opacity: 1;
+}
+.pioneer-Container.hidden {
+  opacity: 0;
+}

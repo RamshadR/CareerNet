@@ -1,0 +1,72 @@
+.EX3parapic{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 70px;
+}
+.EX3pic{
+    width: 499px;
+    height: 510px;
+    margin-left: 90px;
+}
+.EX3para{
+    font-size: 14.5px;
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    margin-right: 80px;
+}
+.EX3Box-Wrap{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 70px;
+    gap: 40px;
+    align-items: start;
+    justify-content: center;
+}
+.EX3-Box{
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    height: 330px;
+    margin-bottom: -80px;
+    align-items: start;
+    justify-content: center;
+    text-align: start;
+    color: black;
+}
+
+.EX3-boxTitle{
+    color: #00b4d5;
+    font-style: italic;
+    font-size: 23px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.EX3-boxDescription{
+    align-items: start;
+    text-align: start;
+    text-decoration: none;
+    color: black;
+
+}
+.E3bottom-Title{
+    text-align: center;
+    align-items: center;
+    color: #004066;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 55px; 
+    margin-top: 80px;
+}
+.Bottom-Title-link{
+    color: #004066;
+    text-decoration: none;
+   
+}
+.Bottom-Title-link:hover{
+    color: #00b4d5;
+
+}

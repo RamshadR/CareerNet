@@ -1,0 +1,90 @@
+.EmployeeBenefit{
+    background-color:#f1f1f3;
+}
+.EmployeeBenefit-Title{
+    margin-left: 140px;
+    padding-top: 20px;
+    color: #004066;
+    font-weight: 630;
+    font-size: 35px;
+    margin-bottom: 10px; 
+}
+.join-para-cover4{
+    margin-top: 40px;
+}
+.benefit-text{
+    text-align: start;
+    font-style: italic;
+    font-weight:bold;
+    padding: -10px;
+    margin-top: -20px;
+    margin-bottom: -10px;
+    font-size: 20px;
+    text-align:left; 
+    color: #00b4d5;
+}
+.join-img-cover4{
+    width: 124px;
+    height: 127px;
+    padding: 10px;
+}
+.join-img4-cover4{
+    margin-left: -20px;
+}
+.join-img6-cover4{
+    width: 124px;
+    height: 127px;
+    margin-left: 30px;
+    
+}
+.join-img8-cover4{
+    width: 124px;
+    height: 127px;
+    margin-left: -10px;
+       
+}
+.leading-title{
+    margin-left: 140px;
+    padding-top: 20px;
+    color: #004066;
+    font-weight: 630;
+    font-size: 35px; 
+}
+.leading-para{
+    margin-left: 140px;
+    margin-right: 50px;
+}
+.leading-points{
+    margin-left: -30px;
+}
+.leading-bottom-heading{
+    text-align: center;
+    align-items: center;
+    margin-top: -20px;
+    padding-top: 20px;
+    color: #004066;
+    font-weight: 630;
+    font-size: 25px; 
+}
+.leading-joinbtn{
+    background-color: #51b4be;
+    border-color: transparent;
+    color: white;
+     font-size: 16px;
+     line-height: 16px;
+     font-weight: 400;
+     letter-spacing: 0px;
+     padding: 15px 40px;
+     border-width: 0;
+     border-radius: 22px;
+     margin-left: 630px;
+     margin-top: -10px;
+     margin-bottom: 20px;
+}
+.join-BlueBox{
+    background-color:#04acd4;
+}
+.blue-para-cover4{
+    margin-top: -10px;
+    margin-left: 20px;
+}

@@ -1,0 +1,19 @@
+.hiring-text{
+    position: absolute;
+    top: 55%; 
+    left: 25%;
+    font-size: 75px; 
+    font-weight: bolder;
+    text-align:left; 
+    z-index:0;
+    font-family: "Kaushan Script";
+    text-decoration: none;
+    line-height: 82px;
+    letter-spacing: -1px;
+    font-weight: 400;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.ph-cover3{
+    padding-bottom: 30px;
+}

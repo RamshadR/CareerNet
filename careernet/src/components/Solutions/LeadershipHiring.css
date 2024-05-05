@@ -1,0 +1,92 @@
+.lhCover2-box{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    height: 500px;
+   
+
+}
+.lhCover2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 90px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: -150px;
+}
+.lhCover2-title{
+    color: #06325e;
+    margin-bottom: 10px;
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 700;
+}
+.lhCover2-img{
+    width: 140px;
+    height: 140px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.lhCover3{
+    background-color: #ffd308;
+}
+.lhCover3-Title{
+    color: #004066;
+    font-weight: 600;
+    margin-left: 140px;
+    padding-top: 30px;
+    font-size: 48px;
+    line-height: 55px;
+}
+.lhCover3-Boxcontainer{
+    display: flex;
+    align-items: center;
+    text-align: start;
+    margin-left: 140px;
+   
+    
+}
+.lhCover3-Box{
+    width: 280px;
+    height: 400px;
+    
+}
+.lhCover3-point{
+    display: flex;
+    align-items: center;
+    text-align: start;
+    margin-top: -20px;
+    margin-bottom:  -20px;
+    padding-top: -10px;
+    padding-bottom: -10px;
+}
+.lhCover3-Boxtitle{
+    color: #06325e;
+    font-size: 27px;
+    line-height: 30px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.lhCover3-icon{
+    width: 15px;
+    height: 15px;
+    padding-right: 5px;
+}
+.lhCover4-Title{
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 610;
+    padding-bottom: 30px;
+    letter-spacing: 0px;
+    color: #06325e;
+    text-align: center;
+}
+.lhvisit{
+    color: #06325e;
+}
+.lhvisit:hover{
+    color: #2a8beb;
+}

@@ -1,0 +1,39 @@
+.sc1-Title{
+    margin-left: 150px;
+    color: #06325e;
+    margin-bottom: -1px;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 55px; 
+}
+.sc1Box-Wrap{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    align-items: start;
+    justify-content: center;
+}
+.sc1-Box{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    align-items: start;
+    justify-content: center;
+    text-align: start;
+    color: black;
+}
+
+.sc1-boxTitle{
+    color: #06325e;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.sc1-boxDescription{
+    align-items: start;
+    text-align: start;
+    text-decoration: none;
+    color: black;
+
+}

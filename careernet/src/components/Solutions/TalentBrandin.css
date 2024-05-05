@@ -1,0 +1,52 @@
+.talent-Cover2-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.talent-Cover2-text1{
+   margin-left: 140px;
+   margin-right: 20px;
+   width: 600px;
+   height: 150px; 
+}
+.talent-Cover2-text2{
+   margin-right: 130px;
+   width: 600px;
+   height: 150px; 
+}
+.tbCover2{
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   margin-left: 90px;
+   margin-right: 100px;
+   margin-top: 50px;
+   margin-bottom: -170px;
+}
+.tbrCover2{
+   display: flex;
+   align-items: start;
+   margin-left: 140px;
+   margin-right: 100px;
+   margin-top: 90px;
+   margin-bottom: 80px;
+}
+.tbrCover2-box{
+   display: flex;
+}
+.tbCover2-title{
+   color: #06325e;
+   margin-bottom: 10px;
+   font-size: 22px;
+   line-height: 26px;
+   font-weight: 700;
+}
+.tbnCover2{
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   margin-left: 90px;
+   margin-right: 100px;
+   margin-top: 50px;
+   margin-bottom: -250px;
+}

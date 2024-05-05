@@ -1,0 +1,51 @@
+.servicePage{
+    background-color:rgb(255, 211, 8);
+    padding: 50px;
+   
+}
+.serviceTitle{
+    margin-left: 150px;
+    color: #004066;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 55px;
+    
+}
+.serviceBox-Wrap{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+}
+.serviceBox{
+    display: flex;
+    flex-direction: column;
+    width: 290px;
+    height: 330px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: black;
+}
+.serviceBox:hover{
+    background-color: #fcb900;
+    cursor: pointer;
+}
+.boxTitle{
+    color:#004066 ;
+    font-size: 23px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.boxDiscription{
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+
+}
+.link{
+    text-decoration: none;
+    color: black;
+}

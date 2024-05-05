@@ -1,0 +1,104 @@
+.joinus-Coverpic{
+    width:100%;
+    height: 603px;
+    margin-top: 92px;
+}
+.joinCover2-Wrap{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-left: -90px;
+    margin-top: -40px;
+    margin-bottom: 80px;
+    justify-content: center;
+    align-items: center;
+}
+.form-heading{
+color: #004066;
+font-size: 18px;
+}
+.joinbtn{
+   background-color: #51b4be;
+   border-color: transparent;
+   color: white;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    padding: 15px 40px;
+    border-width: 0;
+    border-radius: 22px;
+    margin-left: 100px;
+   
+}
+    
+.Joincover3-Title{
+margin-left: 150px;
+color: #004066;
+font-weight: 500;
+font-size: 48px;
+line-height: 55px;
+}
+.Joinpara1-title{
+margin-left: 150px;
+color: #004066;
+font-weight: 620;
+font-size: 30px;
+margin-bottom: 10px;
+}
+.joinpara3{
+    margin-left: 150px;
+    padding: -5px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+.join-box-cover3{
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    background-color: #f1f1f3;
+}
+.join-img-cover3{
+    width: 490px;
+    height: 450px;
+    margin-right: 200px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+.join-para-cover3{
+    margin-left: 160px;
+    margin-top: 200px;
+    margin-right: 70px;
+}
+.join-title-cover4{
+    margin-left: 150px;
+    color: #004066;
+    font-weight: 630;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.join-cover4-container{
+    display: flex;
+    align-items: center;
+}
+.join-cover4{
+    display: flex;
+    margin-left: 140px;
+}
+.join-para-cover4{
+    margin-left: 40px;
+    align-items: center;
+}
+.join-cover5-Text{
+    margin-left: 140px;
+    color: #004066;
+    font-weight: 630;
+    font-size: 30px;
+    margin-bottom: 10px;  
+}
+.join-cover5{
+    display: flex;
+    margin-left: 110px;
+    gap: 50px;
+}

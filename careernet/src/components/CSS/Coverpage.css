@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+.coverpic{
+    width:100%;
+    height: 643px;
+    margin-top: 92px;
+}
+.photoText1{
+    position: absolute;
+    top: 50%; 
+    left: 75%;
+    font-size: 20px; 
+    transform: translate(-50%, -50%);
+    color: black;
+
+}
+.photoText2{
+    position: absolute;
+    z-index: 0;
+    top: 70%; 
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 75px; 
+    font-weight: bolder;
+    text-align:left; 
+    z-index:0;
+    font-family: "Kaushan Script";
+    text-decoration: none;
+    line-height: 82px;
+    letter-spacing: -1px;
+    font-weight: 400;
+}
+.coverpic2{
+    margin-top: 100px;
+    margin-right: 150px;
+    width: 510px;
+    height: 519px;
+}
+.secondpage{
+    display: flex;
+}
+.paragraph{
+    margin-top: 150px;
+    margin-left: 180px;
+    margin-right: 100px;
+    font-size: 15px;
+}
+.number{
+    color: #00bac7;
+    font-size: 40px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding-bottom: 0px;
+    
+}
+.numbertext{
+    color:  #004066;
+    text-align: center;
+    font-size:20px;
+    font-weight:500;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom:50px;
+    
+   
+}
+.tableNumber{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 110px;
+    margin-right: 110px;
+    border-spacing: 0;
+  
+}
+
+@media (max-width: 1025px) {
+    .coverpic {
+        height: 470px; /* Adjust as needed */
+        margin-top: 85px; /* Adjust as needed */
+    }
+
+    .photoText1,
+    .photoText2 {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .photoText1{
+        top: 40%; 
+        left: 75%;
+        font-size: 15px; 
+    }
+    .photoText2{
+        top: 50%; 
+        left: 75%;
+        font-size: 57px; 
+        line-height: 52px;
+
+    }
+    .coverpic2{
+        margin-top: 100px;
+        margin-right: 50px;
+        width: 460px;
+        height: 449px;
+    }
+    .paragraph{
+        margin-top: 130px;
+        margin-left: 100px;
+        margin-right: 50px;
+        font-size: 15px;
+    }
+}
+
+/* For mobile devices */
+@media only screen and (max-width: 767px) {
+    .coverpic {
+        left: 0px;
+        right: 0px;
+    width:700px;
+    height: 293px;
+    }
+
+    .photoText1,
+    .photoText2 {
+        transform: translateX(-40%);
+    }
+    .photoText1{
+        top: 20%; 
+        left: 120%;
+        font-size: 2px; 
+        text-align: center;
+    }
+    .photoText2{
+        top: 25%; 
+        left: 120%;
+        font-size: 30px; 
+        line-height: 25px;
+
+    }
+    .coverpic2{
+        margin-top: 1000px;
+        margin-right: 50px;
+        align-items: center;
+        justify-content: center;
+        width: 460px;
+        height: 449px;
+    }
+    .paragraph{
+        margin-top:30px;
+        align-items: center;
+        text-align: center;
+       
+    }
+}
+
+/* For tablet devices */
+/* @media only screen and (min-width: 768px) and (max-width: 1024px) {
+   
+    .coverpic {
+        height: 470px;
+        margin-top: 85px; 
+    }
+
+    .photoText1,
+    .photoText2 {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .photoText1{
+        top: 40%; 
+        left: 75%;
+        font-size: 15px; 
+    }
+    .photoText2{
+        top: 50%; 
+        left: 75%;
+        font-size: 57px; 
+        line-height: 52px;
+
+    }
+    .coverpic2{
+        margin-top: 100px;
+        margin-right: 50px;
+        width: 460px;
+        height: 449px;
+    }
+    .paragraph{
+        margin-top: 130px;
+        margin-left: 100px;
+        margin-right: 50px;
+        font-size: 15px;
+    }
+}
+ */

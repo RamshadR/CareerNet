@@ -1,0 +1,32 @@
+.staffing-text{
+    position: absolute;
+    z-index: 0;
+    top: 70%; 
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 75px; 
+    font-weight: bolder;
+    text-align:left; 
+    z-index:0;
+    font-family: "Kaushan Script";
+    text-decoration: none;
+    line-height: 82px;
+    letter-spacing: -1px;
+    font-weight: 400;
+}
+.Container4{
+    width: 100%;
+    height: 850px;
+}
+.ps-Cover-yellow{
+    background-color: #ffd308;
+}
+.pscover4-tittle{
+    color: #004066;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 55px;
+    margin-left: 140px;
+    padding-top: 30px;
+}
