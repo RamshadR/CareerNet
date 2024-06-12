@@ -12,12 +12,13 @@
     margin-top: 30px;
     gap: 20px;
 }
-.pioneerBtn{
+.pioneerBtne{
     background-color:rgb(255, 255, 255);
     color: #54bffd;
     border: 1px solid #54bffd ;
     width: 30px;
     height: 30px;
+    justify-content: center;
     align-items: center;
     text-align: center;
     border-radius: 5px;
@@ -30,4 +31,53 @@
 }
 .pioneer-Container.hidden {
   opacity: 0;
+}
+
+@media only screen and (max-width: 767px){
+    .pioneer-title{
+        margin-left: 0px;
+        text-align: center;
+        margin-right:190px;
+        padding-top: 10px;
+        color: #004066;
+        font-weight: 500;
+        font-size: 15px;
+    } 
+    .PioneerBtnn{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+    }
+    .pioneerBtne{
+        background-color:rgb(255, 255, 255);
+        color: #54bffd;
+        border: 1px solid #54bffd ;
+        width: 30px;
+        height: 30px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border-radius: 5px;
+        font-size: 20px;
+        padding: 3px;
+    }
+    .mediaquetyimg{
+        margin-top: -100px;
+        width: -100px;
+        height: -100px;
+        text-align: center;
+    }
+    .cover2-paraghrap-Exper{
+        font-size:8px;
+        font-weight: bold;
+        margin-top: 1000px; 
+        margin-left: -900px;
+        margin-right: 500px;
+
+    }
+    .cover2Expertis{
+        display: flex;
+        flex-direction: column;
+    }
 }

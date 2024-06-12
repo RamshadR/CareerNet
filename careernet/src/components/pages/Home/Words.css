@@ -1,0 +1,94 @@
+.wordContainer{
+    background-color:#e6e7e9;
+    padding: 65px 0 25px;
+    
+}  
+.Title{
+    margin-left: 150px;
+    color: #004066;
+    font-weight: 500;
+    font-size: 48px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+} 
+.wordWrap{
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    gap: 0px;
+    margin-left: 110px;
+    margin-right: 110px;
+   
+    
+   
+}
+.wordBox{
+    width: 320px;
+    height: 240px;
+    gap: 20px; 
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+   
+}  
+.positionOfPerson{
+    color: #00bac7;
+    margin-bottom: 0;
+    font-size: 28px;
+    font-weight: 900;
+}
+ 
+h6{
+ margin: 0px;
+ padding: 0px;
+
+}
+@media only screen and (max-width: 767px){
+    .Title{
+        margin-left: 10px;
+        text-align: center;
+        margin-right: 205px;
+        color: #004066;
+        font-weight: 500;
+        font-size: 20px;
+        margin-top: -20px;
+        margin-bottom: 10px;
+    } 
+    .wordWrap{
+        text-align: center;
+        margin-left: 20px;
+        display: flex;
+        flex-direction: column;
+      
+    } 
+    .wordBox{
+    margin-bottom: -150px;
+    padding-bottom: -100px;
+    padding-right: 100px;
+    margin-left: -15px;
+    height: 250px;
+   
+}
+#wordbox1{
+  padding-right: 100px;
+  margin-left: -15px;
+}
+.paragraphText{
+    font-size: 8px;
+    font-weight: bold;
+    
+}  
+.box2paratext{
+    font-size: 8px;
+    font-weight: bold;
+}
+.positionOfPerson{
+    color: #00bac7;
+    margin-bottom: 0;
+    font-size: 10px;
+    font-weight: 600;
+}
+.customer{
+    font-size: 8px;
+    font-weight: bold;
+}
+}

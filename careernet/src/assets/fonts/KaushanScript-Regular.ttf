@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Kaushan Script';
+    src: url('assets/font/KaushanScript-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

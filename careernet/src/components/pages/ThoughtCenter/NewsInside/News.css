@@ -1,0 +1,52 @@
+.newsphotoText{
+    position: absolute;
+    z-index: 0;
+    top: 60%; 
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-size: 63px; 
+    font-weight: bolder;
+    text-align:left; 
+    z-index:0;
+    font-family: "Kaushan Script";
+    text-decoration: none;
+    line-height: 82px;
+    letter-spacing: -1px;
+    font-weight: 400;
+}
+.news-blog-header{
+    background-color: #f7f7f7;
+    align-items: center;
+    text-align: center;
+  
+   
+}
+.news-title{
+    color: #06325e;
+    font-size: 35px;
+    line-height: 54px;
+    font-weight: 600;
+    letter-spacing: 0px;
+}
+.news-Link{
+    color: #979797
+}
+.news-broadcum{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: -10px;
+}
+.newcard-Container{
+    /* display: flex; */
+  
+    align-items: center;
+    justify-content: space-evenly;
+}
+.paging{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 0px;
+}
